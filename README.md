@@ -1,4 +1,4 @@
-### Hi, I'm Taiel.👋
+### Hi, I'm Taiel.
 ## I'm a Django Developer
 - 🏡 [Blog Demo][Blog] 
 - 👔 [Linkedin][linkedin]
