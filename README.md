@@ -3,5 +3,5 @@
 - 🏡 [Blog Demo][Blog] 
 - 👔 [Linkedin][linkedin]
 
-[Blog]: https://kadarblog.herokuapp.com/
+[Blog]: https://taielblog.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/taiel-kadar-a869b41a6/
