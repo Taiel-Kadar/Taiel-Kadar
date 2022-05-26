@@ -1,5 +1,5 @@
 ### Hi, I'm Taiel.
-## I'm a Django Developer
+## I'm a Web Developer with knowledge in Django and Javascript
 - 🏡 [Blog Demo][Blog] 
 - 👔 [Linkedin][linkedin]
 
